@@ -1,4 +1,5 @@
 public class Rabbit extends Animal {
+
     private String eyeColor;
 
     public Rabbit(String name, int age, String eyeColor) {

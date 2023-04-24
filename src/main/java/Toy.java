@@ -1,4 +1,5 @@
 public class Toy implements Action {
+
     private String name;
 
     public Toy(String name) {

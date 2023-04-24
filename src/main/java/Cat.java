@@ -4,10 +4,12 @@ public class Cat extends Animal {
         super(name, age);
     }
 
+
     @Override
     public void play() {
         System.out.println("Cat " + name + " jumps on table");
     }
+
 
     @Override
     public void play(Toy toy) {
